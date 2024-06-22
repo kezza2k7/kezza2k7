@@ -12,5 +12,14 @@ Here at some Projects that I am currently working on:<br>
   - <a href="https://github.com/swiftosproject/birdy.rs">Birdy.rs</a> ( This is a package Manager for SwiftOS )<br>
   - <a href="https://github.com/kezza2k7/Estopia-Protect">Estopia Protect</a> ( This is a Rust Application that add extra security to your pc ) <br>
   - <a href="https://github.com/kezza2k7/Omegle-DS-Bot">Omegle DS Bot</a> ( This is a Discord Bot based on Omegle )<br>
-  - <a href="https://github.com/kezza2k7/Estopia-Kitchen">Estopia Kitchent</a> ( This is a Food Tracking App and Backend made using React Native )<br>
+  - <a href="https://github.com/kezza2k7/Estopia-Kitchen">Estopia Kitchen</a> ( This is a Food Tracking App and Backend made using React Native )<br>
+    - <a href="https://github.com/kezza2k7/Monopoly">Monopoly</a> ( This is Monopoly made in Java )<br>
 </div>
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50">
+
