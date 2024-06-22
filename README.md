@@ -17,9 +17,18 @@ Here at some Projects that I am currently working on:<br>
 </div>
 
 🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="Discord.js Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="InteliJ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Rust Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50">
-
+</div>
