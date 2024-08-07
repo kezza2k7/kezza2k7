@@ -9,7 +9,7 @@ Hey, You've found my GitHub Profile.<br>
 <br>
 <div align="center">
 Here at some Projects that I am working on / worked on:<br>
-  - <a href="https://github.com/swiftosproject/birdy.rs">Birdy.rs</a> ( This is a package Manager for SwiftOS )<br>
+  - <a href="https://github.com/kezza2k7/RestoreEstopia">RestoreEstopia</a> ( This is a Discord Bot that is similar to RestoreCord )<br>
   - <a href="https://github.com/kezza2k7/Estopia-Protect">Estopia Protect</a> ( This is a Rust Application that add extra security to your pc ) <br>
   - <a href="https://github.com/kezza2k7/Omegle-DS-Bot">Omegle DS Bot</a> ( This is a Discord Bot based on Omegle )<br>
   - <a href="https://github.com/kezza2k7/Estopia-Kitchen">Estopia Kitchen</a> ( This is a Food Tracking App and Backend made using React Native )<br>
