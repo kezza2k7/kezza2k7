@@ -4,7 +4,7 @@
 
 <div align="center">
 Hey, You've found my GitHub Profile.<br>
-📫 Ask me anything in my Discord DM (imaoreo) or <a href="mailto:Jay@estopia.net"><b>email</b></a> me.
+📫 Ask me anything in my Discord DM (imaoreo3 or imaoreo2) or <a href="mailto:Jay@estopia.net"><b>email</b></a> me.
 </div>
 <br>
 <div align="center">
